@@ -23,7 +23,7 @@ My personal projects will be housed here in their various repositories. My recen
   </ul>
 
 <h2>Personal</h2>
-Outside of coding, I enjoy spending time with my Australian Shepherd, Ohana, as well as hiking, skateboarding, and studying foreign languages such as Italian and Russian. I am still undecided on a place to call home so relocation is still an option for me.
+Outside of coding, I enjoy spending time with my Australian Shepherd, Ohana, as well as hiking, skateboarding, and studying foreign languages such as Italian and Russian. I am undecided on a place to call home so relocation is still an option for me.
 
 <h2>Contact</h2>
 Feel free to reach out at joshgood211@gmail.com for any contact purposes and I will reply when able to do so.
