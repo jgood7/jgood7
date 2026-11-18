@@ -8,12 +8,14 @@ My personal projects will be housed here in their various repositories. My recen
     <li>Python - 4 years</li>
     <li>Java - 3 years</li>
     <li>Excel VBA - 3 years</li>
-    <li>SQL - 2 years</li>
+    <li>SQL - 3 years</li>
+    <li>Postman - 2 years</li>
+    <li>Docker - 2 years</li>
     <li>Javascript - 2 years</li>
     <li>HTML - 2 years</li>
     <li>CSS - 2 years</li>
+    <li>MongoDB - 2 years</li>
     <li>Mulesoft - <1 year</li>
-    <li>Postman - <1 year</li>
     <li>C# - <1 year</li>
     <li>C++ - <1 year</li>
     <li>C - <1 year</li>
